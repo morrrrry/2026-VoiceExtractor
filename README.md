@@ -2,6 +2,11 @@
 
 音楽と声が混在した音声ファイルから、音楽のみのリファレンスを用いてボーカル成分を抽出するツール。
 
+## windows向けexe
+Pythonベースをexeファイルにしたものでライブラリ群が含まれて容量が大きいのでGoogleドライブ配布となります
+v1.0.0
+https://drive.google.com/file/d/1K3VNw1KPZOfhOsGZ3ETmsDeR23ynqhw7/view?usp=drive_link
+
 ---
 
 ## 目次
